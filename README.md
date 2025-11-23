@@ -66,3 +66,6 @@ Selecting 3 terminates the application.
 
 The data is saved in a file named finance_data.csv in the same directory as the Python scripts. It has the following columns:
 Note: The application will automatically create this file if it doesn't exist when you add your first transaction.
+
+(AUTHOR): MAYANK LAKHERA
+          25BCY10154
